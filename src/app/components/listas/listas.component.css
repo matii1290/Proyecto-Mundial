@@ -1,0 +1,67 @@
+.titulo {
+    text-align: center
+}
+
+.parrafo {
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 25px;
+}
+
+.ga {
+    max-height: 260px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-right: 40px;
+}
+
+.gb {
+    max-height: 255px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin-right: 40px;
+}
+
+.gc {
+    max-height: 260px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 40px;
+}
+
+.gd {
+    max-height: 255px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 50px;
+}
+
+.ge {
+    max-height: 250px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 50px;
+    margin-left: 15px;
+}
+
+.gf {
+    max-height: 250px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 50px;
+}
+
+.gg {
+    max-height: 250px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 40px;
+    margin-left: 3px;
+}
+
+.gh {
+    max-height: 250px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 50px;
+}
