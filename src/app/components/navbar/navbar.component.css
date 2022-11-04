@@ -6,28 +6,32 @@
     background: 	#298f3a;
     z-index: 1030;
     align-items: center;
-    margin-top: -15px;
-    
-    }
+    margin-top: -10px;
+    display: flex;
+    max-height: 70px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
     .APText{
-    padding-top: 90px;
-    padding-left: 550px;
-    color: white;
-    padding-left: 150px;
+    
+    color: white;    
     font-size: 20px;
-    margin-left: 250px;
-    }
+    width: 6%;
+    margin-left: 30%;
+    margin-right: 30%;
+        }
     .Aprograma{
-    max-height: 50px;
+    
     vertical-align: middle;
     padding-top: 20px;
     padding-bottom: 20px;
+    width:50px;
 
     }
     .Fixture{
-        padding-left: 350px;
-        max-height: 50px;
         vertical-align: middle;
         padding-top: 20px;
         padding-bottom: 20px;
+        width: 50px;
     }

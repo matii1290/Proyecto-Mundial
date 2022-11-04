@@ -6,30 +6,29 @@
     background: 	#298f3a;
     z-index: 1030;
     align-items: center;
-    margin-top: -15px;
     
-    }
+    display: flex;
+    max-height: 70px;
+}
     .APText{
-    padding-top: 90px;
-    padding-left: 550px;
-    color: white;
-    padding-left: 150px;
+    
+    color: white;    
     font-size: 20px;
-    margin-left: 250px;
+    width: 6%;
     }
     .Aprograma{
-    max-height: 50px;
+    
     vertical-align: middle;
     padding-top: 20px;
     padding-bottom: 20px;
+    width:4%
 
     }
     .Fixture{
-        padding-left: 350px;
-        max-height: 50px;
         vertical-align: middle;
         padding-top: 20px;
         padding-bottom: 20px;
+        width: 6%;
     }
     .table{
         
@@ -37,8 +36,8 @@
        
     }
     .td2{
-        padding-left: 150px ;
+        padding-left: 30px ;
     }
     .td3{
-        padding-left: 150px ;
+        padding-left: 130px ;
     }
